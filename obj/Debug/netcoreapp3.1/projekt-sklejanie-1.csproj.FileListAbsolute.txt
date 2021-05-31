@@ -1,0 +1,12 @@
+/Users/bart/Desktop/Programowanie/2 Semestr/Algorytmy i struktura danych Reczek/Projekt3/bin/Debug/netcoreapp3.1/projekt-sklejanie-1.deps.json
+/Users/bart/Desktop/Programowanie/2 Semestr/Algorytmy i struktura danych Reczek/Projekt3/bin/Debug/netcoreapp3.1/projekt-sklejanie-1.runtimeconfig.json
+/Users/bart/Desktop/Programowanie/2 Semestr/Algorytmy i struktura danych Reczek/Projekt3/bin/Debug/netcoreapp3.1/projekt-sklejanie-1.runtimeconfig.dev.json
+/Users/bart/Desktop/Programowanie/2 Semestr/Algorytmy i struktura danych Reczek/Projekt3/bin/Debug/netcoreapp3.1/projekt-sklejanie-1.dll
+/Users/bart/Desktop/Programowanie/2 Semestr/Algorytmy i struktura danych Reczek/Projekt3/bin/Debug/netcoreapp3.1/projekt-sklejanie-1.pdb
+/Users/bart/Desktop/Programowanie/2 Semestr/Algorytmy i struktura danych Reczek/Projekt3/obj/Debug/netcoreapp3.1/projekt-sklejanie-1.csprojAssemblyReference.cache
+/Users/bart/Desktop/Programowanie/2 Semestr/Algorytmy i struktura danych Reczek/Projekt3/obj/Debug/netcoreapp3.1/projekt-sklejanie-1.AssemblyInfoInputs.cache
+/Users/bart/Desktop/Programowanie/2 Semestr/Algorytmy i struktura danych Reczek/Projekt3/obj/Debug/netcoreapp3.1/projekt-sklejanie-1.AssemblyInfo.cs
+/Users/bart/Desktop/Programowanie/2 Semestr/Algorytmy i struktura danych Reczek/Projekt3/obj/Debug/netcoreapp3.1/projekt-sklejanie-1.csproj.CoreCompileInputs.cache
+/Users/bart/Desktop/Programowanie/2 Semestr/Algorytmy i struktura danych Reczek/Projekt3/obj/Debug/netcoreapp3.1/projekt-sklejanie-1.dll
+/Users/bart/Desktop/Programowanie/2 Semestr/Algorytmy i struktura danych Reczek/Projekt3/obj/Debug/netcoreapp3.1/projekt-sklejanie-1.pdb
+/Users/bart/Desktop/Programowanie/2 Semestr/Algorytmy i struktura danych Reczek/Projekt3/obj/Debug/netcoreapp3.1/projekt-sklejanie-1.genruntimeconfig.cache
